@@ -1,0 +1,35 @@
+body {
+
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: lavenderblush; 
+
+
+}
+header {
+    background-color: lavenderblush; 
+    color:blue;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+main{
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 10px 0;
+    background-color: lavenderblush; 
+    color:blue;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+section{
+    margin-bottom: 20px;
+}
