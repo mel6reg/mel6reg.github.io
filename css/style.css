@@ -61,3 +61,33 @@ footer{
 section{
     margin-bottom: 20px;
 }
+
+/* Style for project sect. */
+
+.project {
+    display: flex;
+    align-items: flex-start ;
+    margin-bottom: 20px;
+    text-align:left;
+
+}
+
+.project-table {
+    border-collapse: collapse;
+    width:100%;
+}
+
+.project-table th, .project-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.project-table th {
+    background-color: lavenderblush;
+    text-align:left;
+
+}
+
+.project-table td {
+    background-color: lavenderblush;
+}
